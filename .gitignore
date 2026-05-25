@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+.DS_Store?
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# R
+.Rhistory
+.RData
+
+# MATLAB data files
+*.mat
+*.slx
+*.mdl
+
+# Data files
+*.dta
+*.xlsx
+*.xls
+*.csv
+*.parquet
