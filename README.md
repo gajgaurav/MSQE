@@ -1,6 +1,6 @@
-# MSQE — NYU Stern, M.S. Quantitative Economics
+# MSQE — NYU Stern, MS Quantitative Economics
 
-Coursework from M.S. Quantitative Economics (MSQE) at NYU Stern School of Business. Each folder contains implementations and assignments from a specific course, covering methods in econometrics, optimization, machine learning, and economic theory.
+Coursework from MS Quantitative Economics (MSQE) at NYU Stern School of Business. Each folder contains implementations and assignments from a specific course, covering methods in econometrics, optimization, machine learning, and economic theory.
 
 ## Courses
 
